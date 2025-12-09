@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "total_score": 41,
+    "breakdown": {
+      "web_structure": 20,
+      "accessibility": 20,
+      "writing_quality": 0,
+      "originality": 0,
+      "git_collaboration": 1
+    },
+    "details": {
+      "htmlhint": "No HTML files detected or no issues found.",
+      "accessibility": "0 images; 0 missing alt attributes.",
+      "git": "1 commit(s) in history.",
+      "text_files_evaluated": []
+    }
+  }
+}

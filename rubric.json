@@ -1,0 +1,29 @@
+{
+  "tasks": {
+    "web_structure": {
+      "label": "Struktur & Validasi Web",
+      "weight": 25,
+      "description": "Validasi HTML/CSS/JS (HTMLHint) dan struktur semantik"
+    },
+    "accessibility": {
+      "label": "Aksesibilitas dasar",
+      "weight": 20,
+      "description": "Pemeriksaan alt text untuk gambar dan struktur heading"
+    },
+    "writing_quality": {
+      "label": "Kualitas Tulisan & Argumen",
+      "weight": 30,
+      "description": "Analisis isi artikel/refleksi — akurasi, alur, rujukan"
+    },
+    "originality": {
+      "label": "Keaslian & Referensi",
+      "weight": 15,
+      "description": "Pengecekan orisinalitas sederhana & keberadaan referensi"
+    },
+    "git_collaboration": {
+      "label": "Kolaborasi Git",
+      "weight": 10,
+      "description": "Commit history, PR dan penggunaan branch"
+    }
+  }
+}
